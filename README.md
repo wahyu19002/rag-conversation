@@ -16,3 +16,6 @@ untuk memberikan jawaban yang akurat berdasarkan konteks dokumen yang diunggah.
 - Vector Store: ChromaDB
 - Embeddings: HuggingFace
 - PDF Processing: PyPDFLoader
+
+**COBA DEMO APLIKASI DISINI**
+https://rag-coversation-8fifjsjenzszup6eeu8ka3.streamlit.app/
